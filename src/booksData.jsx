@@ -8,7 +8,7 @@ const books = [
     description:
       "A novel about the serious issues of rape and racial inequality, but it is also full of warmth and humor.",
     coverImage:
-      "https://images-na.ssl-images-amazon.com/images/I/81OdwZ9qA9L.jpg",
+      "https://th.bing.com/th/id/OIP.T55C4BiOVfcS3WFdCM3xdwHaK2?rs=1&pid=ImgDetMain",
   },
   {
     id: 2,
